@@ -1,0 +1,2 @@
+# Krusader
+Hacks of Frusader
